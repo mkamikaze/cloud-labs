@@ -1,2 +1,2 @@
 # cloud-labs
-AWS Cloud lab
+Learning AWS, Linux, and cloud fundamentals using WSL.
